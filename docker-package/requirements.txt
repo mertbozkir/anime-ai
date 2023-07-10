@@ -1,0 +1,3 @@
+chainlit==0.5.1
+langchain==0.0.228
+google-cloud-aiplatform
