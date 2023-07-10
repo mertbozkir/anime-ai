@@ -21,10 +21,10 @@ user_env = []
 
 [UI]
 # Name of the app and chatbot.
-name = "Chatbot"
+name = "anime-ai"
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = ""
+# description = "Talk with your favourite anime character! 🔥"
 
 # The default value for the expand messages settings.
 default_expand_messages = false
@@ -33,7 +33,7 @@ default_expand_messages = false
 hide_cot = false
 
 # Link to your github repo. This will add a github button in the UI's header.
-# github = ""
+# github = "https://github.com/mertbozkir/anime-ai"
 
 [meta]
 generated_by = "0.5.1"

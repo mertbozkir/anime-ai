@@ -1,6 +1,4 @@
 .idea
 __pycache__
-app/pdf2jsonl/node_modules
-app/.DS_Store
-app/service_account.json
-secrets.txt
+docker-package/.DS_Store
+docker-package/service_account.json
